@@ -16,7 +16,7 @@ This repository contains a PHP Joke Generator project that showcases my abilitie
 
 ## Live Demo 🌐
 
-A live demo of the PHP Joke Generator is available at <a href="https://raphaelduran.com/JOKES/" target="_blank">Demo Link</a>. ▶️🌐
+A live demo of the PHP Joke Generator is available at <a href="https://raphaelduran.com/jokes/" target="_blank">Demo Link</a>. ▶️🌐
 
 Please note that the availability and functionality of the public API may affect the joke generation in the live demo.
 
